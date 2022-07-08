@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <DatabaseSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Collation />
-  <Containment />
-  <DatabaseName />
+  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+  <Containment>PARTIAL</Containment>
+  <DatabaseName>RTDest</DatabaseName>
   <ExistsOnSourceControl>true</ExistsOnSourceControl>
-  <ServerName />
+  <ServerName>WINDEV2106EVAL</ServerName>
   <ServerVersion>Sql2019</ServerVersion>
 </DatabaseSettings>
