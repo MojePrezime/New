@@ -1,4 +1,0 @@
-ALTER AUTHORIZATION
-	ON SCHEMA::[sys]
-	TO [sys]
-GO

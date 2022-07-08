@@ -1,3 +1,0 @@
-CREATE USER [guest]
-	WITH DEFAULT_SCHEMA = [guest]
-GO
